@@ -16,4 +16,4 @@ Exemplo de entrada:
 +
 Saida: 20
 
-ARQUIVO EXEMPLO: [(Arquivo EX (Calc1.stk)]
+ARQUIVO EXEMPLO: [(Entrada (Calc1.stk)]
